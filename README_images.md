@@ -8,5 +8,5 @@
 
 ![town_population_distribution.png](images/town_population_distribution.png)
 
-![beverage_scatter.png](images/beverage_scatter.png)
+![beverage_scatter.png]()
 
